@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Bhosale</h1>
-<h3 align="center">A passionate Data/API developer from India</h3>
+<h3 align="center">A passionate Data/Python developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/boy-coding-with-pad-illustration_418302-2380.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhambhosale0411&label=Profile%20views&color=0e75b6&style=flat" alt="shubhambhosale0411" /> </p>
